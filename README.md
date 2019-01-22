@@ -1,3 +1,5 @@
+(This repository is no longer being maintained.)
+
 # RL-Teacher-Atari
 
 `rl-teacher-atari` is an extension of [`rl-teacher`](https://github.com/nottombrown/rl-teacher), which is in turn an implementation of of [*Deep Reinforcement Learning from Human Preferences*](https://arxiv.org/abs/1706.03741) [Christiano et al., 2017].
